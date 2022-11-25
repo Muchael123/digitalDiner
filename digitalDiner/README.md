@@ -15,15 +15,6 @@ HTML and CSS projects for web developers.
 
 <br />
 <hr />
-
-<a name="portfolio"></a>
-
-### Responsive Personal Portfolio - [Back to top](#content)
-
-<br />
-
-![Screenshot](./screenshots/portfolio.png)
-
 <a name="dashboard"></a>
 
 ### Responsive Dashboard - [Back to top](#content)
